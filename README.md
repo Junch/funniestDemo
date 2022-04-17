@@ -30,3 +30,4 @@ funniest-joke
 - [Why you shouldn't invoke setup.py directly](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html)
 - Youtube: [How to Build Python Packages for Pip](https://www.youtube.com/watch?v=JkeNVaiUq_c)
 - [Aesthetic ASCII](https://github.com/jamescalam/aesthetic_ascii)
+- [A sample Python project](https://github.com/pypa/sampleproject)
