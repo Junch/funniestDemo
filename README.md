@@ -1,4 +1,4 @@
-#README
+# README
 
 Demo how to make a python package and upload it to PYPI
 
@@ -31,3 +31,4 @@ funniest-joke
 - Youtube: [How to Build Python Packages for Pip](https://www.youtube.com/watch?v=JkeNVaiUq_c)
 - [Aesthetic ASCII](https://github.com/jamescalam/aesthetic_ascii)
 - [A sample Python project](https://github.com/pypa/sampleproject)
+- [Python - 如何打包并发布 Python 库到 PyPI](https://www.jianshu.com/p/9fb0d69134d2)
