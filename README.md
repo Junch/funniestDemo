@@ -2,6 +2,8 @@
 
 Demo how to make a python package and upload it to PYPI
 
+[The source for this project is available here][src].
+
 ## 1. build the package and upload
 
 ```bash
@@ -32,3 +34,5 @@ funniest-joke
 - [Aesthetic ASCII](https://github.com/jamescalam/aesthetic_ascii)
 - [A sample Python project](https://github.com/pypa/sampleproject)
 - [Python - 如何打包并发布 Python 库到 PyPI](https://www.jianshu.com/p/9fb0d69134d2)
+
+[src]: https://github.com/Junch/funniestDemo
